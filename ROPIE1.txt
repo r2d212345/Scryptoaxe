@@ -52,6 +52,25 @@ a5e30a location 21C26
 90026b location 21C28
 1e5855 location 21C29
 8550c6 location 21C30
+afd12d location 21D01
+e9cac9 location 21D02
+38841a location 21D03
+d51be2 location 21D04
+ location 21D05
+03e0ae location 21D06
+4c9bd6 location 21D07
+ location 21D08
+a46c8f location 21D09
+8a4782 location 21D10
+ location 21D11
+42ab73 location 21D12
+42e1f1 location 21D13
+18579e location 21D14
+ location 21D15
+a2445f location 21D16
+cd2756 location 21D17
+fab5e6 location 21D18
+
 
 ## tuning
 
