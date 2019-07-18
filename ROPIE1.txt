@@ -40,7 +40,7 @@ global blinkgreen rapid
 a3d20e location 21C17
 f32ef7 location 21C18
 e557c4 location 21C19
- location 21C20
+8e6aab location 21C20
 b9d74b location 21C21
 20a270 location 21C22
 7d22d3 location 21C23
