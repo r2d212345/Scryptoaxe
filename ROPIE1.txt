@@ -15,7 +15,7 @@ global username3 RobinOpie
 global poolpass3 123
 global sendworker3 yes
 
-global asicboost no
+global asicboost yes
 global autotune yes
 global maxwatts 1350
 
