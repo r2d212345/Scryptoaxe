@@ -35,9 +35,22 @@ global blinkgreen rapid
 # group=rowd allowed no
 
 ## vlans
-vlan 192.168.1.63-76
 
 ## locations
+a3d20e location 21C17
+f32ef7 location 21C18
+e557c4 location 21C19
+ location 21C20
+b9d74b location 21C21
+20a270 location 21C22
+7d22d3 location 21C23
+a0e925 location 21C24
+f8a335 location 21C25
+a5e30a location 21C26
+7f89ea location 21C27
+90026b location 21C28
+1e5855 location 21C29
+8550c6 location 21C30
 
 ## tuning
 
