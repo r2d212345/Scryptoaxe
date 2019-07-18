@@ -70,6 +70,14 @@ a46c8f location 21D09
 a2445f location 21D16
 cd2756 location 21D17
 fab5e6 location 21D18
+fe49d3 location 21D19
+637d4c location 21D20
+ location 21D21
+3b040a location 21D22
+36ca80 location 21D23
+ location 21D24
+33cb07 location 21D25
+ location 21D26
 
 
 ## tuning
