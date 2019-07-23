@@ -80,6 +80,12 @@ da15af location 21D24
 c2f64d location 21D26
 
 ## tuning
+d51be2 maxwatts 1250
+7d22d3 maxwatts 1250
+f32ef7 maxwatts 1250
+7f89ea maxwatts 1250
+82dd58 maxwatts 1250
+
 
 ## asic password
 asicpass admin
