@@ -65,6 +65,11 @@ cc7988 location AURAICOS21A20
 69dda7 location AURAICOS21A26
 
 ## tuning
+0d99c4 maxwatts 1050 # 172.16.200.96
+f4a435 maxwatts 1050 # 172.16.203.138
+0d99c4 rebootasic 1564045210 # 172.16.200.96
+f4a435 rebootasic 1564045210 # 172.16.203.138
+
 
 ## asic password
 asicpass admin
